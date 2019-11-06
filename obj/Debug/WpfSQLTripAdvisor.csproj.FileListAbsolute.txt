@@ -1,0 +1,15 @@
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\bin\Debug\WpfSQLTripAdvisor.exe.config
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\bin\Debug\WpfSQLTripAdvisor.exe
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\bin\Debug\WpfSQLTripAdvisor.pdb
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\WpfSQLTripAdvisor.csprojAssemblyReference.cache
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\MainWindow.g.cs
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\App.g.cs
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\WpfSQLTripAdvisor_MarkupCompile.cache
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\WpfSQLTripAdvisor_MarkupCompile.lref
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\MainWindow.baml
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\WpfSQLTripAdvisor.g.resources
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\WpfSQLTripAdvisor.Properties.Resources.resources
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\WpfSQLTripAdvisor.csproj.GenerateResource.cache
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\WpfSQLTripAdvisor.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\WpfSQLTripAdvisor.exe
+C:\Users\nikol\source\repos\WpfSQLTripAdvisor\WpfSQLTripAdvisor\obj\Debug\WpfSQLTripAdvisor.pdb
